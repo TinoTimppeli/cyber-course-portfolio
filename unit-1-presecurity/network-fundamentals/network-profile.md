@@ -1,5 +1,4 @@
-q1 minun ipv4 addres on  192.168.101.179(Preferred) ja MAC addres on  72-08-94-D9-1E-C5
- 
+q1 minun ipv4 addres on  192.168.xxx.xxx(Preferred) ja MAC addres on  72-xx-94-xx-1E-xx 
 
 
 q2 privaatti ip addres ei näy internetissä ja julkinen näkyy netissä
@@ -10,11 +9,11 @@ q3 ip addres identifoi sinun koneen networkiä ja pystytään networking ja dhcp
 
 q4 
 minun subnet mask määrä on 256 ja käytettävä määrä on 2.
-network addres on 192.168.1.0 ja broadcasting on 192.168.1.255
+network addres on 192.xxx.1.0 ja broadcasting on 192.168.x.xxx
 
 
 q5
-my default gateway addres is fe80::f6fb:b8ff:febd:f8e0%9  192.168.101.1
+my default gateway addres is fe80::xxxx:b8ff:febd:f8e0%9  192.xxx.101.x
 sen pystyy tunnistaa koska kolme ensimmäistä osaa ovat verkkosia jossa molemmat osoittaa kuuluvat samaan verkkoon.
 
 
@@ -26,7 +25,7 @@ q7
 domain name system eli dns
 
 q8
-minun dns server on 192.168.101.1. koneeni on tehty käyttämään default gateway serveriä.
+minun dns server on 192.168.xxx.x. koneeni on tehty käyttämään default gateway serveriä.
 
 
 q9
@@ -101,3 +100,5 @@ port 135 käytetään windows rpc:hen. mutta port 445 käytetään SMB tiedostoj
 
 q15
 tuli enemmän mitä oletin.
+
+

@@ -1,6 +1,6 @@
 1. The incident in my own words
 
-The SolarWinds attack was a cyberattack where hackers got into SolarWinds' software. They secretly added harmful code to a software update. Customers downloaded the update normally and did not know that it also gave the hackers access to their systems.
+The Solarwinds attack was a cyberattack where hackers got into SolarWinds software. They secretly added harmful code to a software update. Customers downloaded the update normally and did not know that it also gave the hackers access to their systems.
 
 2. Who was affected, and how?
 
